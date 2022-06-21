@@ -4,6 +4,6 @@ import com.bkkonate.springbootbookhexagonalarchi.domain.model.Book;
 
 public interface CreateBookUseCase {
 
-    Book createBook(Book product);
+    Book createBook(Book book);
 
 }
